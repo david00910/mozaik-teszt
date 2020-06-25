@@ -1,0 +1,19 @@
+* {
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+.settlements {
+    cursor:pointer;
+    font-size: 1.2rem;
+}
+li.turnOff {
+    display:none;
+}
+li:hover {
+    color: #00b0e8 !important;
+}
+.bg-mozaik {
+    background-color: #1E549E;
+}
+
+
